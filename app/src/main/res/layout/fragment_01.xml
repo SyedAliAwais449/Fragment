@@ -15,4 +15,12 @@
         android:text="Fragment_01"
         android:textColor="#FFFFFF"
         android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="200dp"
+        android:text="Change Text" />
 </FrameLayout>
