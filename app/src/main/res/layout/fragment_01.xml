@@ -3,13 +3,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="#E91E63"
     tools:context=".Fragment_01">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="100"
-        android:layout_marginTop="100"
-        android:text="Fragmnet_01" />
+        android:layout_marginStart="100dp"
+        android:layout_marginTop="100dp"
+        android:text="Fragment_01"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp" />
 </FrameLayout>
